@@ -118,4 +118,4 @@ All implementation screenshots are included in the full lab report file uploaded
 
 ---
 
-> *Submitted as part of the Web Engineering Lab — Cyber Security Engineering Department, UFTB*
+> *Submitted as part of the  Android and web Application Development sessional   — Cyber Security Engineering Department, UFTB*
