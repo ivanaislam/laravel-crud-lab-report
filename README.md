@@ -1,6 +1,6 @@
 # 🧪 Laravel CRUD Lab Report
 
-> **Course:** Web Engineering / Laravel Lab
+> **Course:**  Android and web Application Development sessional 
 > **Topic:** Implementation of CRUD Operations in Laravel with MySQL Database (XAMPP)
 
 ---
